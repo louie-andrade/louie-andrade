@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @louie-andrade
+- 👀 I’m interested in reconnecting with my Indigenous roots and cultural preservation.
+- 🌱 I’m currently learning JavaScript although I'm also going back to reinforcing my understanding of HTML and CSS due to a hiatus due to work and school.
+- 💞️ I’m looking to collaborate on basic app and web development projects related to Indigenous nations and culture.
+- 📫 Github is the best means of communication with me. Should we need to discuss things further I may provide more personal methods.
